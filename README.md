@@ -6,8 +6,8 @@
   <tr>
     <td valign="center" width="40%">
       
-:office: &nbsp;I'm currently working at **[Devsinc]**</br>
-:seedling: &nbsp;I'm currently learning & exploring **Web3 Stacks**</br>
+:office: &nbsp;I'm currently working at **Devsinc**</br>
+:seedling: &nbsp;I'm currently learning & exploring **Web 3.0**</br>
 :walking: &nbsp;Like an evening walk</br>
       
   </td>
