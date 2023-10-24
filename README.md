@@ -87,5 +87,5 @@ Here are some ideas to get you started:
 <!-- links -->
 
 [Email]: mailto:ahmadawais00786@gmail.com "Email"
-[Cassandra Architecture + Implementation]: https://medium.com/@awaischaudary526/how-to-use-and-customize-quill-text-editor-in-react-next-js-cd59b8ff0bf9
+[Cassandra Architecture + Implementation]: https://medium.com/@awaischaudary526/cassandra-architecture-summed-up-implementation-b35a9a4528a4
 [Customize Quill Text Editor in React/Next JS]: https://medium.com/@awaischaudary526/how-to-use-and-customize-quill-text-editor-in-react-next-js-cd59b8ff0bf9
