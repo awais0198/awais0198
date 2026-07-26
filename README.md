@@ -143,12 +143,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=awais0198&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
-🔥 Where My Energy Goes
-React | Node | NestJS ████████████░░░░░░░░ 60%
-Python | LLM / AI Systems ████░░░░░░░░░░░░░░░░ 20%
-PostgreSQL | MySQL | Data ███░░░░░░░░░░░░░░░░░ 15%
-Docker | Kubernetes | AWS █░░░░░░░░░░░░░░░░░░░ 05%
-
 <br/>
 
 <div align="center">
@@ -157,8 +151,8 @@ Docker | Kubernetes | AWS █░░░░░░░░░░░░░░░░░
 
 I'm always up for a good technical challenge, an interesting problem, or just talking shop about LLMs and system design. Reach out — I reply fast. 📩
 
-**[✉️ Email Me](mailto:awais.builds@gmail.com)** &nbsp;•&nbsp; **[🐙 Check My Repos](https://github.com/awais0198)**
+**[✉️ Email Me](mailto:awais.builds@gmail.com)** 
 
-<sub>Built with ❤️, way too much ☕, and a healthy assist from Claude & Cursor</sub>
+<sub>Built with ❤️, way too much ☕, and a healthy assist from Claude</sub>
 
 </div>
