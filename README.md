@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Awais+%F0%9F%91%8B;Full-Stack+Engineer+%7C+MERN+%F0%9F%92%BB;Building+AI%2FLLM-Powered+Systems+%F0%9F%A4%96;Turning+Data+Into+Decisions+%F0%9F%93%8A;From+Backend+Logic+to+Frontend+Magic+%E2%9C%A8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F70000,50:B026FF,100:7F00FF&height=220&section=header&text=Hey%20there,%20I'm%20Awais%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20AI%2FLLM%20%7C%20Data%20Science&descAlignY=50&descSize=18" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F70000&center=true&vCenter=true&width=650&lines=Building+AI%2FLLM-Powered+Systems+%F0%9F%A4%96;Turning+Data+Into+Decisions+%F0%9F%93%8A;From+Backend+Logic+to+Frontend+Magic+%E2%9C%A8" />
 
 <p>🚀 <b>Shipping full-stack products by day, wiring up LLMs and dashboards by night.</b> 🚀</p>
 
@@ -31,13 +33,6 @@
 - ☕ Fun fact: my commit velocity is directly proportional to coffee intake
 
 <br/>
-
-<div align="center">
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/awais0198/awais0198/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<br/>
-
 
 ## 🔥 Tech Arsenal
 
@@ -146,6 +141,11 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,ts,js,tailwind,postgres,mysql,mongodb,redis,docker,kubernetes,aws,githubactions,python,pytorch" />
 </div>
 
+<div align="center">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/awais0198/awais0198/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+
 <br/>
 
 <div align="center">
@@ -159,3 +159,5 @@ I'm always up for a good technical challenge, an interesting problem, or just ta
 <sub>Built with ❤️, way too much ☕, and a healthy assist from Claude</sub>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:B026FF,100:F70000&height=150&section=footer" />
