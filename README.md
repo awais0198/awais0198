@@ -32,6 +32,13 @@
 
 <br/>
 
+<div align="center">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/awais0198/awais0198/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<br/>
+
+
 ## 🔥 Tech Arsenal
 
 ### 🖥️ Frontend
@@ -137,10 +144,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,ts,js,tailwind,postgres,mysql,mongodb,redis,docker,kubernetes,aws,githubactions,python,pytorch" />
-</div>
-
-<div align="center">
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/awais0198/awais0198/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <br/>
