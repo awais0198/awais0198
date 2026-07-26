@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Awais+%F0%9F%91%8B;Full-Stack+Engineer+%7C+MERN+%F0%9F%92%BB;Building+AI%2FLLM-Powered+Systems+%F0%9F%A4%96;Turning+Data+Into+Decisions+%F0%9F%93%8A;From+Backend+Logic+to+Frontend+Magic+%E2%9C%A8" />
 
