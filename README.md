@@ -140,7 +140,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=awais0198&theme=radical&no-frame=true&row=1&column=6" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/awais0198/awais0198/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <br/>
