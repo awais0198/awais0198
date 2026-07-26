@@ -4,7 +4,7 @@
 
 # Hey there, I'm Awais Ahmad 👋
 
-### Full-Stack Engineer (MERN) crafting AI/LLM-powered systems & data-driven products
+### Full-Stack Engineer crafting AI/LLM-powered systems & data-driven products
 
 <p style="font-size:14px; font-style:italic; color:silver;">From backend logic to frontend magic — and lately, LLMs.</p>
 
@@ -127,13 +127,13 @@
 
 ### 🚀 Featured Projects
 
-**[Honeybricks](https://honeybricks.com)** — Fractional real estate investment platform. Built responsive frontend interfaces, secure investment/payment flows, real-time portfolio tracking, and optimized API performance for financial data queries.
-
 **[MergedPDF](https://mergedpdf.com)** — Online PDF tools platform (merge, split, convert). Performant React frontend, Node.js file-processing backend, cloud-based handling with efficient memory management for large uploads.
 
 **[Martillo Capital](https://martillocapital.com)** — Financial planning platform. Led cross-platform mobile development (Web & iOS), offline-first workflows reducing field data loss by ~60%, and 99%+ data sync reliability.
 
 **[Serb](https://flyserb.com)** — Full-stack contact & notification platform built with Next.js, NestJS, and PostgreSQL, handling form submissions and automated email notification workflows.
+
+**[Honeybricks](https://honeybricks.com)** — Fractional real estate investment platform. Built responsive frontend interfaces, secure investment/payment flows, real-time portfolio tracking, and optimized API performance for financial data queries.
 
 **[evalgate](https://github.com/awais0198/evalgate)** — Published npm package / eval tooling for AI systems.
 
@@ -142,12 +142,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awais0198&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awais0198&theme=radical" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=awais0198&theme=radical" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awais0198&layout=compact&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,ts,js,tailwind,postgres,mysql,mongodb,redis,docker,kubernetes,aws,githubactions,python,pytorch" />
 </div>
 
 <div align="center">
